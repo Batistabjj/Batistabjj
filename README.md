@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Batistabjj
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning javascript css htlml
+- 🌱 I’m currently learning javascript CSS e HTML
 - 💞️ I’m looking to collaborate on for programming area
 - 📫 How to reach me through git hob
 - 😄 Pronouns: ..
